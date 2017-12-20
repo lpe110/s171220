@@ -19,3 +19,4 @@ dd=defaultdict(lambda: 'N/A')
 print(dd['key2'])
 
 print("LPE")
+print("lpe2")
