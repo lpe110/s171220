@@ -17,3 +17,5 @@ print(p.x)
 dd=defaultdict(lambda: 'N/A')
 #dd={'k1':90,'k2':21,'k3':'mpt8'}
 print(dd['key2'])
+
+print("LPE")
